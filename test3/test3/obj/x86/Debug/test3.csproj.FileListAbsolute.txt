@@ -1,0 +1,9 @@
+C:\Users\wwalts\Desktop\C#\test3\test3\bin\Debug\test3.exe
+C:\Users\wwalts\Desktop\C#\test3\test3\bin\Debug\test3.pdb
+C:\Users\wwalts\Desktop\C#\test3\test3\obj\x86\Debug\test3.exe
+C:\Users\wwalts\Desktop\C#\test3\test3\obj\x86\Debug\test3.pdb
+F:\课程\夏令营\C#\test3\test3\obj\x86\Debug\test3.exe
+F:\课程\夏令营\C#\test3\test3\obj\x86\Debug\test3.pdb
+F:\课程\夏令营\C#\test3\test3\bin\Debug\test3.exe
+F:\课程\夏令营\C#\test3\test3\bin\Debug\test3.pdb
+F:\课程\夏令营\C#\test3\test3\obj\x86\Debug\test3.csprojResolveAssemblyReference.cache
